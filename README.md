@@ -1,2 +1,2 @@
 # QAN26-Solution
-This is QA N26 Solution repository
+Code is available in Master Branch
