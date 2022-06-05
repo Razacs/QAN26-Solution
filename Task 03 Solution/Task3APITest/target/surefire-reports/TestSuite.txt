@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 39, Failures: 1, Errors: 0, Skipped: 38, Time elapsed: 0.831 sec <<< FAILURE! - in TestSuite
+init(com.test.api.TestCategories)  Time elapsed: 0.569 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class org.codehaus.groovy.reflection.ReflectionCache
+	at com.test.api.TestCategories.init(TestCategories.java:22)
+
